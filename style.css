@@ -179,7 +179,7 @@ p{
 }
 
 .square-container{
-    margin: 2em;
+    margin: 2em 0em;
     width: 100%;
     display: flex;
     justify-content: space-around;
